@@ -15,4 +15,3 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 
-meri vinti yehi hai radha rani , kripa barshaye rkhna , mujhe tera hi sahara maharani charon se liptaye rkhna , kripa barshaye rkhna 
