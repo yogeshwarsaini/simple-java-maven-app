@@ -16,5 +16,3 @@ the "Deliver" stage of your Pipeline.
 
 
 
-"jai hanuman gyan gun sagar , jai kapish tihu lok ujagar "
-ram dyut atulit baldhama , anjani putra pawan sutnama
